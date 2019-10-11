@@ -132,7 +132,7 @@ chmod +x screenshot.sh
 ./screenshot.sh
 ```
 
-### 4. Usage.
+### 5. Usage.
 
 - 1.The cursor should change, click and select the area.
 - 2.We will see that we had text in the buffer.
@@ -173,7 +173,7 @@ chmod +x fileshare.sh
 ./fileshare.sh
 ```
 
-### 4. Usage.
+### 3. Usage.
 
 - 1.Start script
 
@@ -183,3 +183,5 @@ chmod +x fileshare.sh
 
 - 2.We will see that we had text in the buffer.
 - 3.We can paste this link into the browser or share and see download is starting.
+
+---
