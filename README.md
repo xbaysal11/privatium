@@ -20,18 +20,18 @@
 
 ## 1. DROPLET
 
-[Droplet Creating Documintation](droplet/README.md)
+[Droplet Creating Documintation](https://github.com/xbaysal11/privatium/blob/master/droplet/)
 
 ---
 
 ## 2. SCREENSHOT SHARING
 
-[Screenshot Sharing Documintation](screenshot/README.md)
+[Screenshot Sharing Documintation](https://github.com/xbaysal11/privatium/blob/master/screenshot/)
 
 ---
 
 ## 3. FILE SHARING
 
-[File Sharing Documintation](fileshare/README.md)
+[File Sharing Documintation](https://github.com/xbaysal11/privatium/blob/master/fileshare/)
 
 ---

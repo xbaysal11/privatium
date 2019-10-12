@@ -37,5 +37,5 @@ sudo apt-get upgrade
 
 ---
 
-- [Screenshot Sharing Documintation](screenshot/README.md)
-- [File Sharing Documintation](fileshare/README.md)
+- [Screenshot Sharing Documintation](https://github.com/xbaysal11/privatium/blob/master/screenshot/)
+- [File Sharing Documintation](https://github.com/xbaysal11/privatium/blob/master/fileshare/)

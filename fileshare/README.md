@@ -2,7 +2,7 @@
 
 ### 1. Complete droplet section.
 
-[Droplet Creating Documintation](droplet/README.md)
+[Droplet Creating Documintation](https://github.com/xbaysal11/privatium/blob/master/droplet/)
 
 ### 2. Install Nginx.
 
@@ -90,5 +90,5 @@ chmod +x fileshare.sh
 
 ---
 
-- [Droplet Creating Documintation](droplet/README.md)
-- [Screenshot Sharing Documintation](screenshot/README.md)
+- [Droplet Creating Documintation](https://github.com/xbaysal11/privatium/blob/master/droplet/)
+- [Screenshot Sharing Documintation](https://github.com/xbaysal11/privatium/blob/master/screenshot/)
