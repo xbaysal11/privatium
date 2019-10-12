@@ -107,3 +107,13 @@ chmod +x fileshare.sh
 - [Screenshot Sharing Documentation](https://github.com/xbaysal11/privatium/blob/master/screenshot/)
 - [VPN Documentation](https://github.com/xbaysal11/privatium/blob/master/vpn/)
 - [PROXY Documentation](https://github.com/xbaysal11/privatium/blob/master/proxy/)
+
+---
+
+### SPONSORS [[Become a sponsor](https://t.me/xbaysal11)]
+
+[![https://t.me/xbaysal11](https://img.shields.io/badge/sponsors-0-brightgreen)](https://t.me/xbaysal11)
+
+### LICENSE
+
+Privatium is [GPL licensed.](https://github.com/xbaysal11/privatium/blob/master/LICENSE)
