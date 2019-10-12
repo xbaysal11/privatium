@@ -18,6 +18,8 @@ I will use hosting from Google Cloud Platform, as in my opinion it is the most c
 
 [Google Cloud Platform](https://cloud.google.com/)
 
+To register with GCP and receive an annual trial with a loan of \$300. You should already have a MasterCard / VISA card.
+
 ### 2. Create there the cheapest droplet for \$5.
 
 ### 3. Attach any of your domain to the created droplet.
@@ -50,5 +52,6 @@ sudo apt-get upgrade
 ---
 
 - [Main Page Privatium](https://github.com/xbaysal11/privatium)
-- [Screenshot Sharing Documintation](https://github.com/xbaysal11/privatium/blob/master/screenshot/)
-- [File Sharing Documintation](https://github.com/xbaysal11/privatium/blob/master/fileshare/)
+- [Screenshot Sharing Documentation](https://github.com/xbaysal11/privatium/blob/master/screenshot/)
+- [File Sharing Documentation](https://github.com/xbaysal11/privatium/blob/master/fileshare/)
+- [VPN Documentation](https://github.com/xbaysal11/privatium/blob/master/vpn/)

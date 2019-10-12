@@ -14,7 +14,7 @@
 
 ### 1. Complete droplet section.
 
-[Droplet Creating Documintation](https://github.com/xbaysal11/privatium/blob/master/droplet/)
+[Droplet Creating Documentation](https://github.com/xbaysal11/privatium/blob/master/droplet/)
 
 ### 2. Install Nginx.
 
@@ -103,5 +103,6 @@ chmod +x fileshare.sh
 ---
 
 - [Main Page Privatium](https://github.com/xbaysal11/privatium)
-- [Droplet Creating Documintation](https://github.com/xbaysal11/privatium/blob/master/droplet/)
-- [Screenshot Sharing Documintation](https://github.com/xbaysal11/privatium/blob/master/screenshot/)
+- [Droplet Creating Documentation](https://github.com/xbaysal11/privatium/blob/master/droplet/)
+- [Screenshot Sharing Documentation](https://github.com/xbaysal11/privatium/blob/master/screenshot/)
+- [VPN Documentation](https://github.com/xbaysal11/privatium/blob/master/vpn/)

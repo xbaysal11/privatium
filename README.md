@@ -20,18 +20,24 @@
 
 ## 1. DROPLET
 
-[Droplet Creating Documintation](https://github.com/xbaysal11/privatium/blob/master/droplet/)
+[Droplet Creating Documentation](https://github.com/xbaysal11/privatium/blob/master/droplet/)
 
 ---
 
 ## 2. SCREENSHOT SHARING
 
-[Screenshot Sharing Documintation](https://github.com/xbaysal11/privatium/blob/master/screenshot/)
+[Screenshot Sharing Documentation](https://github.com/xbaysal11/privatium/blob/master/screenshot/)
 
 ---
 
 ## 3. FILE SHARING
 
-[File Sharing Documintation](https://github.com/xbaysal11/privatium/blob/master/fileshare/)
+[File Sharing Documentation](https://github.com/xbaysal11/privatium/blob/master/fileshare/)
+
+---
+
+## 4. VPN
+
+[VPN Documentation](https://github.com/xbaysal11/privatium/blob/master/vpn/)
 
 ---
