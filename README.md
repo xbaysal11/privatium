@@ -18,32 +18,24 @@
 
 ---
 
-## 1. DROPLET
+## Documentation
 
-[Droplet Creating Documentation](https://github.com/xbaysal11/privatium/blob/master/droplet/)
+- ## [1. Droplet Creating Documentation](https://github.com/xbaysal11/privatium/blob/master/droplet/)
 
----
+- ## [2. Screenshot Sharing Documentation](https://github.com/xbaysal11/privatium/blob/master/screenshot/)
 
-## 2. SCREENSHOT SHARING
+- ## [3. File Sharing Documentation](https://github.com/xbaysal11/privatium/blob/master/fileshare/)
 
-[Screenshot Sharing Documentation](https://github.com/xbaysal11/privatium/blob/master/screenshot/)
+- ## [4. VPN Documentation](https://github.com/xbaysal11/privatium/blob/master/vpn/)
 
----
-
-## 3. FILE SHARING
-
-[File Sharing Documentation](https://github.com/xbaysal11/privatium/blob/master/fileshare/)
+- ## [5. PROXY Documentation](https://github.com/xbaysal11/privatium/blob/master/proxy/)
 
 ---
 
-## 4. VPN
-
-[VPN Documentation](https://github.com/xbaysal11/privatium/blob/master/vpn/)
+### SPONSORS
 
 ---
 
-## 5. PROXY
+### LICENSE
 
-- [PROXY Documentation](https://github.com/xbaysal11/privatium/blob/master/proxy/)
-
----
+Privatium is [GPL licensed.](https://github.com/xbaysal11/privatium/blob/master/LICENSE)
