@@ -55,3 +55,4 @@ sudo apt-get upgrade
 - [Screenshot Sharing Documentation](https://github.com/xbaysal11/privatium/blob/master/screenshot/)
 - [File Sharing Documentation](https://github.com/xbaysal11/privatium/blob/master/fileshare/)
 - [VPN Documentation](https://github.com/xbaysal11/privatium/blob/master/vpn/)
+- [PROXY Documentation](https://github.com/xbaysal11/privatium/blob/master/proxy/)

@@ -106,3 +106,4 @@ chmod +x fileshare.sh
 - [Droplet Creating Documentation](https://github.com/xbaysal11/privatium/blob/master/droplet/)
 - [Screenshot Sharing Documentation](https://github.com/xbaysal11/privatium/blob/master/screenshot/)
 - [VPN Documentation](https://github.com/xbaysal11/privatium/blob/master/vpn/)
+- [PROXY Documentation](https://github.com/xbaysal11/privatium/blob/master/proxy/)

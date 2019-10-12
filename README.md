@@ -41,3 +41,9 @@
 [VPN Documentation](https://github.com/xbaysal11/privatium/blob/master/vpn/)
 
 ---
+
+## 5. PROXY
+
+- [PROXY Documentation](https://github.com/xbaysal11/privatium/blob/master/proxy/)
+
+---
