@@ -20,15 +20,15 @@
 
 ## Documentation
 
-- ## [1. Droplet Creating Documentation](https://github.com/xbaysal11/privatium/blob/master/droplet/)
+- ### [1. Droplet Creating Documentation](https://github.com/xbaysal11/privatium/blob/master/droplet/)
 
-- ## [2. Screenshot Sharing Documentation](https://github.com/xbaysal11/privatium/blob/master/screenshot/)
+- ### [2. Screenshot Sharing Documentation](https://github.com/xbaysal11/privatium/blob/master/screenshot/)
 
-- ## [3. File Sharing Documentation](https://github.com/xbaysal11/privatium/blob/master/fileshare/)
+- ### [3. File Sharing Documentation](https://github.com/xbaysal11/privatium/blob/master/fileshare/)
 
-- ## [4. VPN Documentation](https://github.com/xbaysal11/privatium/blob/master/vpn/)
+- ### [4. VPN Documentation](https://github.com/xbaysal11/privatium/blob/master/vpn/)
 
-- ## [5. PROXY Documentation](https://github.com/xbaysal11/privatium/blob/master/proxy/)
+- ### [5. PROXY Documentation](https://github.com/xbaysal11/privatium/blob/master/proxy/)
 
 ---
 
