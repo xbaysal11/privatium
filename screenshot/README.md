@@ -1,4 +1,16 @@
-# SCREENSHOT SHARING
+<p align="center">
+    <img src="https://i.postimg.cc/0jXS4kxK/pr.png" alt="logo" width="154" height="154">
+</p>
+
+<h1 align="center">SCREENSHOT SHARING</h1>
+
+[![Privatium](https://img.shields.io/badge/Privatium-v.1.0.0-00aced.svg)](https://github.com/xbaysal11/privatium)
+[![https://t.me/xbaysal11](https://img.shields.io/badge/%F0%9F%92%AC%20Telegram-xbaysal11-blue.svg)](https://t.me/xbaysal11)
+[![Privatium](https://img.shields.io/github/license/xbaysal11/privatium)](https://github.com/xbaysal11/privatium)
+[![Github](https://img.shields.io/github/followers/xbaysal11?style=social)](https://github.com/xbaysal11)
+[![Privatium](https://img.shields.io/github/stars/xbaysal11/privatium?style=social)](https://github.com/xbaysal11/privatium)
+
+---
 
 ### 1. Complete droplet section.
 
@@ -85,5 +97,6 @@ chmod +x screenshot.sh
 
 ---
 
+- [Main Page Privatium](https://github.com/xbaysal11/privatium)
 - [Droplet Creating Documintation](https://github.com/xbaysal11/privatium/blob/master/droplet/)
 - [File Sharing Documintation](https://github.com/xbaysal11/privatium/blob/master/fileshare/)
