@@ -20,18 +20,18 @@
 
 ## 1. DROPLET
 
-[Droplet Creating Documintation](droplet.md)
+[Droplet Creating Documintation](droplet/README.md)
 
 ---
 
 ## 2. SCREENSHOT SHARING
 
-[Screenshot Sharing Documintation](screenshot.md)
+[Screenshot Sharing Documintation](screenshot/README.md)
 
 ---
 
 ## 3. FILE SHARING
 
-[File Sharing Documintation](fileshare.md)
+[File Sharing Documintation](fileshare/README.md)
 
 ---

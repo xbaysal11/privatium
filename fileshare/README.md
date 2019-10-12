@@ -1,8 +1,8 @@
-# SCREENSHOT SHARING
+# FILE SHARING
 
 ### 1. Complete droplet section.
 
-[Droplet Creating Documintation](droplet.md)
+[Droplet Creating Documintation](droplet/README.md)
 
 ### 2. Install Nginx.
 
@@ -55,14 +55,14 @@ Steps:
 - 1.Install necessary software.
 
 ```bash
-sudo apt install imagemagick xclip
+sudo apt install xclip
 ```
 
-- 2.Take a script from [my repo.](https://github.com/xbaysal11/privatium)
+- 2.Take a [script.](https://gitcdn.link/repo/xbaysal11/privatium/master/fileshare/fileshare.sh)
 - 3.Change two variable in script.
 
 ```bash
-vim screenshot.sh
+vim fileshare.sh
 ```
 
 ```bash
@@ -73,17 +73,22 @@ domain="xbaysal11.ml"
 - 4.Give to script execute rights and run.
 
 ```bash
-chmod +x screenshot.sh
-./screenshot.sh
+chmod +x fileshare.sh
+./fileshare.sh
 ```
 
 ### 6. Usage.
 
-- 1.The cursor should change, click and select the area.
+- 1.Start script
+
+```bash
+./fileshare.sh ~/<path to your file>/<file name>
+```
+
 - 2.We will see that we had text in the buffer.
-- 3.We can paste this link into the browser or share and see our screenshot.
+- 3.We can paste this link into the browser or share and see download is starting.
 
 ---
 
-- [Droplet Creating Documintation](droplet.md)
-- [File Sharing Documintation](fileshare.md)
+- [Droplet Creating Documintation](droplet/README.md)
+- [Screenshot Sharing Documintation](screenshot/README.md)

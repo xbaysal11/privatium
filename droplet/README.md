@@ -37,5 +37,5 @@ sudo apt-get upgrade
 
 ---
 
-- [Screenshot Sharing Documintation](screenshot.md)
-- [File Sharing Documintation](fileshare.md)
+- [Screenshot Sharing Documintation](screenshot/README.md)
+- [File Sharing Documintation](fileshare/README.md)
