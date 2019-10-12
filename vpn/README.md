@@ -37,21 +37,15 @@ wget https://gitcdn.link/repo/xbaysal11/privatium/master/vpn/openvpn-install.sh
 sudo bash openvpn-install.sh
 ```
 
-````bash
+```bash
 IP address: <IPv4 address of network>  // just press enter
-Public IP address / hostname: <your public IP of VM> //Write public IP of VM and pre
-```bash
-sudo reboot
-```ss enter
-Protocol:
-```bash
-sudo reboot
-```1 // Write 1 and press enter
+Public IP address / hostname: <your public IP of VM> //Write public IP of VM and press enter
+Protocol: 1 // Write 1 and press enter
 Port: 1194 //write 1194 and press enter
 DNS: 2 // Write 2 and press enter
 Client name: <your name> // Write your name and press enter
 // Press any key to continue
-````
+```
 
 ### 4. Download VPN.
 
