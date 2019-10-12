@@ -8,8 +8,6 @@
      Screenshoter + File Sharer + VPN + PROXY
 </p>
 
----
-
 [![Privatium](https://img.shields.io/badge/Privatium-v.1.0.0-00aced.svg)](https://github.com/xbaysal11/privatium)
 [![https://t.me/xbaysal11](https://img.shields.io/badge/%F0%9F%92%AC%20Telegram-xbaysal11-blue.svg)](https://t.me/xbaysal11)
 [![https://t.me/xbaysal11](https://img.shields.io/badge/sponsors-0-brightgreen)](https://t.me/xbaysal11)
@@ -36,6 +34,8 @@
 ### SPONSORS [[Become a sponsor](https://t.me/xbaysal11)]
 
 [![https://t.me/xbaysal11](https://img.shields.io/badge/sponsors-0-brightgreen)](https://t.me/xbaysal11)
+
+---
 
 ### LICENSE
 

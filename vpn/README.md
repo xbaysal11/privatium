@@ -83,6 +83,8 @@ sudo openvpn --config <yourName>.ovpn
 
 [![https://t.me/xbaysal11](https://img.shields.io/badge/sponsors-0-brightgreen)](https://t.me/xbaysal11)
 
+---
+
 ### LICENSE
 
 Privatium is [GPL licensed.](https://github.com/xbaysal11/privatium/blob/master/LICENSE)
